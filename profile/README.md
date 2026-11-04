@@ -8,7 +8,7 @@ Soft Balance는 모바일 앱, 웹, 센서와 임베디드 기술을 연결해 �
 
 | Project | Period | Description | Link |
 | --- | --- | --- | --- |
-| **BarSense** 🏆 | 2026 | 바벨의 기울기와 반복 횟수를 확인하고 세트·휴식·운동 기록을 관리하는 센서와 모바일 앱 | [Project Details](https://github.com/khyun-0123/khyun-0123/blob/main/barsense/detail-barsense.md) |
+| **BarSense** 🏆 | 2026 | 바벨의 기울기와 반복 횟수를 확인하고 세트·휴식·운동 기록을 관리하는 센서와 모바일 앱 | [Project Details](https://github.com/Soft-Balance/.github/blob/main/barsense/detail-barsense.md) |
 | **K-Fitness** | 2023 | 교내 헬스장과 운동 정보를 제공하기 위해 제작한 웹 프로그래밍 프로젝트 | [Repository](https://github.com/Soft-Balance/K-Fitness) |
 
 ### BarSense
